@@ -1,18 +1,19 @@
 ---
-title: "Allan Lab - Home"
+title: "Polar Climate and Cryosphere Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Regional Climate and Cryosphere Modelling at DMI"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News: Welcome to our group webpage**
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+We are a dynamic research group at [NCKF; DMI](https://www.dmi.dk/nationalt-center-for-klimaforskning) at the [Danish Meteorological Institute ]([http://www.physics.leidenuniv.nl/](https://www.dmi.dk)). 
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+We have three overarching goals: 
+first, **to understand climate processes on a local scale** using, developing and improving our main tool, the HARMONIE-Climate (HCLIM) high resolution Regional climate model. We have a particular focus on the Arctic and Antarctic, but we also do Europe, Africa, the Caribbean and North America.
+Second, **to make future projections of the cryosphere** with a particular focus on the surface mass budget of the Greenland and Antarctic ice sheets. To this end we have developed the surface scheme of HCLIM and the offline CISSEMBEL (Copenhagen Ice Snow Surface Energy and Mass Balance Model). We also conduct field studies at the DMI Geophysical Facility in Qaanaaq, NW Greenland and in collaboration with other institutes in Antarctica.  
+Third, **to produce climate and sea level rise projections from the ice sheets** over the medium to long term, using a suite of modelling tools, newly developed machine learning emulators and insights from our field studies. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -58,9 +59,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+We are currently building up our team at DMI in the heart of Copenhagen. We are not currently recruiting, but we welcome visiting scientists ans have an active programme of seminars focused on Earth system processes, particularly those relevant in the Polar regions. Get in touch if you'd liek to join the list or give a seminar.
 
 
 
