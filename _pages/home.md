@@ -59,7 +59,7 @@ Third, **to produce climate and sea level rise projections from the ice sheets**
 </div>
 
 
-We are currently building up our team at DMI in the heart of Copenhagen. We are not currently recruiting, but we welcome visiting scientists ans have an active programme of seminars focused on Earth system processes, particularly those relevant in the Polar regions. Get in touch if you'd liek to join the list or give a seminar.
+We are currently building up our team at DMI in the heart of Copenhagen. We are not currently recruiting, but we welcome visiting scientists. We also have an active programme of seminars focused on Earth system processes, particularly those relevant in the Polar regions. Get in touch if you'd like to join the list or give a seminar to our group.
 
 
 
